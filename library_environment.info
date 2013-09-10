@@ -1,0 +1,5 @@
+name = Library Environment Management Module
+description = Provides the configuration to switch the site from each environment.
+dependencies[] = environment
+package = System
+core = 7.x
